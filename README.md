@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Daniel
+- 👀 I’m interested in python, virtual assistants.
+- 🌱 I’m currently learning python
+- 📃 I’m currently working on FOX, my virtual assistant.
