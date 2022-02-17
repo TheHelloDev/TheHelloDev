@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in python, virtual assistants.
-- 🌱 I’m currently learning python
+- 👀 I’m interested in python, Games, and Open-Source
+- 🌱 I’m currently learning UE, and other stuff
 - 📃 I’m currently working on --NOTHING--
